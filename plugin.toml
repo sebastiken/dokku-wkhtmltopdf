@@ -1,0 +1,6 @@
+[plugin]
+name = "wkhtmltopdf"
+description = "Install wkhtmltopdf into the docker instance."
+version = "0.4.0"
+website_url = "https://github.com/sebastiken/dokku-wkhtmltopdf"
+[plugin.config]
